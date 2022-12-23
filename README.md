@@ -1,2 +1,2 @@
-# calculator-new
-react project
+# calculator
+ 
